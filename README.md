@@ -11,5 +11,5 @@
 
 ## 二、在线API使用 
 
-1. // 获取所有用户信息<br>
+1. // 获取所有信息<br>
    https://my-json-server.typicode.com/hdyusf/db/db
