@@ -4,11 +4,11 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/hdyusf/tauri/releases/download/v0.1.8/tauri-app.app.tar.gz"
+      "url": "https://github.com/hdyusf/tauri/releases/download/v0.1.11/tauri-app.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/hdyusf/tauri/releases/download/v0.1.8/tauri-app.x64.msi.zip"
+      "url": "https://github.com/hdyusf/tauri/releases/download/v0.1.11/tauri-app.x64.msi.zip"
     }
   }
 }
